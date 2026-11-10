@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# ZarHonGallery-Frontend
-=======
+
 # ZarHonGallery
 
 فروشگاه نمایشی زیورآلات طلای ۱۸ عیار با React، TypeScript و Vite.
